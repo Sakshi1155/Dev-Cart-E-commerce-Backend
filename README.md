@@ -26,12 +26,13 @@ The project focuses on clean architecture, secure APIs, and real-world backend f
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```text
 devcart-backend/
 │── server.js
 │── config/
-│ └── db.js
+│   └── db.js
 │── controllers/
 │── routes/
 │── models/
